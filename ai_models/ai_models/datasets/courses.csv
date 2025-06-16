@@ -1,0 +1,101 @@
+course_id,course_name,category,difficulty_level,duration_hours,rating
+1,Course_1,Telecommunications,Advanced,10,3.765612597615231
+2,Course_2,AI/ML,Beginner,20,3.72806927036551
+3,Course_3,Telecommunications,Intermediate,40,4.029773401153723
+4,Course_4,Electronics,Intermediate,10,4.098512365371171
+5,Course_5,Control Systems,Beginner,30,4.897628104705069
+6,Course_6,Safety Standards,Advanced,40,4.314758898333858
+7,Course_7,Renewable Energy,Advanced,40,4.181190399444057
+8,Course_8,Project Management,Intermediate,10,4.270904185949519
+9,Course_9,Safety Standards,Advanced,20,4.897407577791817
+10,Course_10,Control Systems,Beginner,50,3.5748804429601075
+11,Course_11,Renewable Energy,Intermediate,20,4.806241637164345
+12,Course_12,AI/ML,Intermediate,40,3.9539091825815413
+13,Course_13,Renewable Energy,Beginner,20,4.345533651308764
+14,Course_14,AI/ML,Intermediate,30,4.419172312911821
+15,Course_15,AI/ML,Intermediate,40,3.807639680518599
+16,Course_16,Renewable Energy,Advanced,50,3.502070103902903
+17,Course_17,Safety Standards,Beginner,50,4.0799882408843695
+18,Course_18,Electronics,Advanced,10,3.8002415305111277
+19,Course_19,Telecommunications,Advanced,20,3.9950389201057224
+20,Course_20,Power Systems,Beginner,50,4.624541136217739
+21,Course_21,Telecommunications,Beginner,10,4.206824549856816
+22,Course_22,AI/ML,Beginner,40,4.045292878139846
+23,Course_23,AI/ML,Beginner,20,4.96665053002129
+24,Course_24,Control Systems,Advanced,40,4.2409332734921446
+25,Course_25,Project Management,Advanced,20,4.741275821182679
+26,Course_26,Renewable Energy,Beginner,50,3.9089985392360496
+27,Course_27,Control Systems,Intermediate,20,4.835719994558362
+28,Course_28,Control Systems,Beginner,50,3.9212563168835755
+29,Course_29,Telecommunications,Beginner,20,3.9223201997317703
+30,Course_30,Power Systems,Advanced,50,4.257270253093095
+31,Course_31,Renewable Energy,Beginner,50,4.157931611749557
+32,Course_32,Power Systems,Advanced,40,4.159787892993092
+33,Course_33,AI/ML,Intermediate,50,4.323538767899677
+34,Course_34,Project Management,Beginner,30,4.9718542554828975
+35,Course_35,Project Management,Intermediate,10,4.506440546675876
+36,Course_36,Power Systems,Intermediate,50,3.790979249681122
+37,Course_37,Electronics,Beginner,30,4.034882406886274
+38,Course_38,Control Systems,Beginner,50,4.124628172630435
+39,Course_39,Power Systems,Intermediate,40,4.802121878364562
+40,Course_40,Renewable Energy,Advanced,10,4.305412334774015
+41,Course_41,Control Systems,Advanced,10,3.816130171096127
+42,Course_42,Telecommunications,Beginner,10,4.601754463758563
+43,Course_43,Project Management,Advanced,50,4.849053017047486
+44,Course_44,Safety Standards,Advanced,20,4.93103504565094
+45,Course_45,Power Systems,Intermediate,10,4.237482440967517
+46,Course_46,Power Systems,Advanced,30,3.898309971143085
+47,Course_47,AI/ML,Advanced,40,4.440000156149605
+48,Course_48,Telecommunications,Intermediate,20,4.533132685103888
+49,Course_49,Telecommunications,Beginner,10,3.7499633074926146
+50,Course_50,AI/ML,Advanced,40,4.534065427802987
+51,Course_51,AI/ML,Intermediate,30,4.4908465649885025
+52,Course_52,Control Systems,Intermediate,30,3.84188298261321
+53,Course_53,Project Management,Beginner,40,4.387265587450245
+54,Course_54,AI/ML,Intermediate,50,4.14954807033101
+55,Course_55,Project Management,Intermediate,40,3.901586837037727
+56,Course_56,Telecommunications,Beginner,50,4.600599489986343
+57,Course_57,Power Systems,Intermediate,40,3.8544508679541103
+58,Course_58,Electronics,Intermediate,40,4.222962660233935
+59,Course_59,Project Management,Intermediate,20,4.898035412353677
+60,Course_60,Control Systems,Intermediate,30,4.88549307546099
+61,Course_61,AI/ML,Intermediate,20,4.72680025189012
+62,Course_62,Electronics,Advanced,10,4.1253586729795995
+63,Course_63,Project Management,Beginner,30,4.349074093505265
+64,Course_64,Renewable Energy,Advanced,10,4.516351712110943
+65,Course_65,Renewable Energy,Beginner,10,4.285155226570488
+66,Course_66,Electronics,Beginner,50,4.078866431393161
+67,Course_67,Telecommunications,Beginner,20,3.8108164442508743
+68,Course_68,Safety Standards,Intermediate,30,4.762985950711439
+69,Course_69,Telecommunications,Intermediate,20,4.9482631677917635
+70,Course_70,Telecommunications,Advanced,50,3.5645233955244766
+71,Course_71,AI/ML,Intermediate,30,3.9087431892534252
+72,Course_72,Control Systems,Advanced,40,4.512858698509056
+73,Course_73,Project Management,Intermediate,20,4.13466202372637
+74,Course_74,AI/ML,Advanced,50,4.908673565598988
+75,Course_75,Electronics,Advanced,30,4.4243406313585325
+76,Course_76,Renewable Energy,Advanced,30,4.288162303764192
+77,Course_77,Project Management,Intermediate,30,3.6936393427493983
+78,Course_78,Electronics,Intermediate,50,4.654645018328786
+79,Course_79,Renewable Energy,Beginner,20,4.079499034796508
+80,Course_80,AI/ML,Advanced,10,3.678854705080353
+81,Course_81,Telecommunications,Intermediate,30,3.5563915401627217
+82,Course_82,AI/ML,Beginner,20,4.273874832792394
+83,Course_83,Control Systems,Beginner,40,4.326772903236497
+84,Course_84,Control Systems,Advanced,30,4.508736549423858
+85,Course_85,Renewable Energy,Advanced,30,4.671942440710324
+86,Course_86,Safety Standards,Intermediate,30,4.131548963541846
+87,Course_87,AI/ML,Advanced,50,4.400811844130694
+88,Course_88,Renewable Energy,Advanced,10,4.060007133185329
+89,Course_89,Telecommunications,Intermediate,30,3.64829238407472
+90,Course_90,AI/ML,Advanced,40,4.866273565169669
+91,Course_91,Safety Standards,Intermediate,30,4.39952046631195
+92,Course_92,Control Systems,Advanced,20,4.341836402863615
+93,Course_93,Electronics,Beginner,40,4.782915462472589
+94,Course_94,Control Systems,Beginner,30,4.341673744688812
+95,Course_95,Telecommunications,Beginner,30,4.76288232946288
+96,Course_96,Renewable Energy,Advanced,50,4.640231762180911
+97,Course_97,Electronics,Advanced,40,4.526692088537808
+98,Course_98,Renewable Energy,Intermediate,50,4.066622107289499
+99,Course_99,Safety Standards,Intermediate,20,3.7768021963645406
+100,Course_100,Telecommunications,Advanced,50,4.378243279707219
